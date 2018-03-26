@@ -8,8 +8,8 @@ const Info = () => {
     <div style={{ textAlign: "center" }}>
       <Avatar />
       <div>
-        <h1>Hi, I'm Aman Mittal 👋</h1>
-        <h3>Fullstack Node.js Developer 👨‍💻</h3>
+        <h2>Hi, I'm (Vidhya) 👋</h2>
+        <h3>Fullstack Java Developer 👨‍💻 and Research Engineer</h3>
         <SocialLinks />
       </div>
     </div>
