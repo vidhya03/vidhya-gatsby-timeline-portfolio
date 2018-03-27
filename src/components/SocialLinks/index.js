@@ -8,25 +8,25 @@ const SocialLinks = () => {
     <div className={styles.socialLinks}>
       <ul>
         <li>
-          <a href="mailto:amanmittal.work@gmail.com">
+          <a href="mailto:it.vidhyadharan@gmail.com">
             <FaEnvelope />
           </a>
         </li>
         <li>
-          <a href="https://github.com/amandeepmittal">
+          <a href="https://github.com/vidhya03">
             <FaGithub />
           </a>
         </li>
         <li>
-          <a href="https://twitter.com/amanhimself">
+          <a href="https://twitter.com/VidhyaJava">
             <FaTwitter />
           </a>
         </li>
-        <li>
+        {/* <li>
           <a href="https://medium.com/@amanhimself">
             <FaMedium />
           </a>
-        </li>
+        </li> */}
       </ul>
     </div>
   );

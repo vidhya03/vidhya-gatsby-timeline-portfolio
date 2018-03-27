@@ -1,12 +1,12 @@
 const seo = {
-  TITLE: "Aman Mittal Portfolio",
-  AUTHOR: "Aman Mittal",
-  DESCRIPTION: "Portfolio Website",
+  TITLE: "Vidhyadharan Deivamani (vidhya) Portfolio",
+  AUTHOR: "Vidhyadharan Deivamani",
+  DESCRIPTION: "Vidhya's Portfolio Website",
   TYPE: "WEBSITE",
-  TWITTER_USERNAME: "@amanhimself",
-  URL: "www.amanhimself.me",
+  TWITTER_USERNAME: "@VidhyaJava",
+  URL: "http://blog.labkit.in/",
   IMAGE_URL: "https://i.imgur.com/TLvcVR4.jpg",
-  DESCRIPTION: "Aman Mittal Portfolio"
+  DESCRIPTION: "Vidhyadharan Deivamani (vidhya) Portfolio"
 };
 
 export default seo;

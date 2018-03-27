@@ -1,9 +1,9 @@
 export const links = {
-  github: "https://github.com/amandeepmittal",
-  twitter: "https://twitter.com/amanhimself",
-  medium: "https://medium.com/@amanhimself",
-  email: "mailto:kristijan.mkd@gmail.com",
-  bookBlog: "https://amandeepmittal.wordpress.com"
+  github: "https://github.com/vidhya03",
+  twitter: "https://twitter.com/VidhyaJava",
+  medium: "https://medium.com/",
+  email: "mailto:it.vidhyadharan@gmail.com",
+  bookBlog: "https://blog.labkit.in"
 };
 
 export const textLinks = [
@@ -13,6 +13,6 @@ export const textLinks = [
   },
   {
     href: links.bookBlog,
-    title: "Book Critic/Blogger"
+    title: "Tech Enthusiatic"
   }
 ];
