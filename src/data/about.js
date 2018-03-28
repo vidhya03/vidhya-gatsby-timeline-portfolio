@@ -3,12 +3,15 @@ export const what = [
     title: "Making Applications 💻"
   },
   {
-    title: "Working Remotely 🌏"
+    title: "Working Passionately 🌏"
   },
   {
-    title: "Learning React Native 📱"
+    title: "Learning New Technolgy 📱"
   },
   {
-    title: "Consultation for Node.js related projects"
+    title: "Completed a 💯 days of code challenge"
+  },
+  {
+    title: "💪 Strong Java developer"
   }
 ];

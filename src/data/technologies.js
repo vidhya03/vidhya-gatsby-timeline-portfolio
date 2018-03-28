@@ -1,11 +1,12 @@
 export const devstack = [
+  { name: "Java" },
   { name: "JavaScript" },
-  { name: "Node.js" },
-  { name: "Expressjs" },
-  { name: "React" },
+  { name: "Python" },
+  { name: "Angular" },
+  { name: "CSS3" },
   { name: "Gatsbyjs" },
-  { name: "create-react-app" },
-  { name: "MongoDB / MySQL" }
+  { name: "API development" },
+  { name: "MySQL" }
 ];
 
 export const technologies = [
