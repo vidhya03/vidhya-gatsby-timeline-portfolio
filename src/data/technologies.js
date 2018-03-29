@@ -1,17 +1,17 @@
 export const devstack = [
   { name: "Java" },
   { name: "JavaScript" },
-  { name: "Python" },
   { name: "Angular" },
   { name: "CSS3" },
   { name: "Gatsbyjs" },
   { name: "API development" },
-  { name: "MySQL" }
+  { name: "MySQL" },
+  { name: "Python" }
 ];
 
 export const technologies = [
   "Angularjs / Angular",
-  "Meteorjs",
+  "RestfulServices",
   "Firebase",
   "Redux",
   "Ionic",

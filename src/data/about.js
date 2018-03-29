@@ -12,6 +12,6 @@ export const what = [
     title: "Completed a 💯 days of code challenge"
   },
   {
-    title: "💪 Strong Java developer"
+    title: "Strong Java developer 💪"
   }
 ];
